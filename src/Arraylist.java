@@ -53,7 +53,7 @@ public class Arraylist {
 		 
 		System.out.println(date2.equals(date1));
 
-               System.out.println(date2.equals(date1));
+               
 		   
 		   
 	 
